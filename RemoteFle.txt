@@ -1,2 +1,2 @@
-This is a file added from remote repo.
+This is a file added from remote repository.
 Added more content
