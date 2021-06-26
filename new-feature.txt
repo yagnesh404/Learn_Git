@@ -1,1 +1,3 @@
-Added a new feature
+Added a new feature with automation 
+
+Added feature 2
