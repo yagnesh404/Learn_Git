@@ -1,1 +1,1 @@
-I am adding new configuration
+I am adding new configuration added via ssh
